@@ -102,7 +102,6 @@ After the PR is merged, you're officially done with Lab 0! ✅
 - **Branch name** should use your full name (e.g., firstname-lastname)
 - **Keep main branch clean**—always do your work on your personal branch
 
-
 ---
 
 ## Student Roster
@@ -111,5 +110,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 |---|---|---|---|---|---|---|
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
 | 1 | Dugh, Garv | N01763558 | @n01763558GarvDugh | n01763558@humber.ca | ✅ Completed | |
-
-
+| 2 | Huynh Khoa, Le    | [N01768983]   | @benjaminkle    | n01768983@humber.ca           | [✅] Completed | [N/A]      |
