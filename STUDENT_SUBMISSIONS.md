@@ -118,3 +118,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 5 | Dugh, Garv | N01763558 | @n01763558GarvDugh | n01763558@humber.ca | ✅ Completed | |
 | 6 | Huynh Khoa, Le    | [N01768983]   | @benjaminkle    | n01768983@humber.ca           | [✅] Completed | [N/A]      |
 | 7 | Anthony, Murphy   | [N00771201]   | @awrmurphy      | mrpn0073@humber.ca            | [🌊] Completed | [N/A]      |
+| 8 | Chaves, Samuel   | [N01771143]   | @Samuuca1      | N01771143@humber.ca            | [⚡] Completed | [Group 7]      |
