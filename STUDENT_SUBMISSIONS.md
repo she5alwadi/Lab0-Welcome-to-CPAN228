@@ -108,8 +108,8 @@ After the PR is merged, you're officially done with Lab 0! ✅
 
 ## Student Roster
 
-| # | Name | Student ID | GitHub Username | Humber Email | Lab 0 Complete | Group Name |
-|---|---|---|---|---|---|---|
+| #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
+| --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
 | 1 | Hudson, Alton     | [N01773328]   | @altonhudson    | n01773328@humber.ca           | ✅ Completed   | [N/A] |
 | 2 | Bonora, Michael | [N01205927] | @MichaelAB73 | n01205927@humber.ca | [🔥] Completed | [14] |
@@ -117,3 +117,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 4 | Svetlozara, Godzheva | [N01754024] | @svetlozara-godzheva | n01754024@humber.ca | [✅] Completed | [N/A] |
 | 5 | Dugh, Garv | N01763558 | @n01763558GarvDugh | n01763558@humber.ca | ✅ Completed | |
 | 6 | Huynh Khoa, Le    | [N01768983]   | @benjaminkle    | n01768983@humber.ca           | [✅] Completed | [N/A]      |
+| 7 | Anthony, Murphy   | [N00771201]   | @awrmurphy      | mrpn0073@humber.ca            | [🌊] Completed | [N/A]      |
